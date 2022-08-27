@@ -1,1 +1,1 @@
-<h2>it consists of real world problems which increases our problem solving skills.</h2>
+<h2>This repository consists of real world problems in codechef platform done using Cpp.</h2>
